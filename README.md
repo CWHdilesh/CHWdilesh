@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/x_mrdk_x/profilecard/?igsh=d3Z2anVhaHY0MDRu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/x_mrdk_x/profilecard/?igsh=d3Z2anVhaHY0MDRu](https://www.linkedin.com/in/dilesh-kumar-84099b29a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
