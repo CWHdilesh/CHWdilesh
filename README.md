@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://CHWdilesh.github.io/dilesh.github.io/](https://CWHdilesh.github.io/CWHdilesh.github.io/)
 
-- 💬 Ask me about **Front-End, Python, HTML
+- 💬 Ask me about **Front-End, Python, HTML,Java,**
 
-- 📫 How to reach me **dileshkumar428@gmail.com**
+- 📫 How to reach me **https://www.instagram.com/x_mrdk_x/profilecard/?igsh=d3Z2anVhaHY0MDRu**
 
-- ⚡ Fun fact **I think I like Coding!**
+- ⚡ Fun fact **I think I like Coding and creating web sites!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
